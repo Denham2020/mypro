@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denham2020/mypro.git"
+  },
+  "author": "denhamboeha <denhammiur@switchmaven.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.10",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Denham2020/mypro/issues"
+  },
+  "homepage": "https://github.com/Denham2020/mypro#readme",
+  "devDependencies": {},
+  "description": ""
+}
